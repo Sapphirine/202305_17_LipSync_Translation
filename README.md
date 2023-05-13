@@ -1,6 +1,10 @@
-# 202305_17_LipSync_Translation
+## 202305_17_LipSync_Translation
 Automated Video Translation and Content Generation using Talking Heads, Leveraging Wav2Lip Model
 
+## Ethical Use Disclaimer : 
+
+This repo can only be used for research/academic/personal  purposes as it internally uses wav2lip model which restricts any commercial usage.  
+Please refere here for further license and commerical usage : https://github.com/Rudrabha/Wav2Lip
 
 Deployment doc has been provided in the repo & can also be found in below url for the most recent changes
 
@@ -11,20 +15,17 @@ Deployment
 
 https://github.com/Sapphirine/202305_17_LipSync_Translation/tree/main/bigdataproject/setup
 
-# Architecture : Original 
+## Architecture : Original 
 
 ![alt text](https://github.com/Sapphirine/202305_17_LipSync_Translation/blob/main/Screenshot%202023-05-12%20at%2018.26.38.png)
 
-# Architecture : Kafka
+## Architecture : Kafka
 
 
 ![alt text](https://github.com/Sapphirine/202305_17_LipSync_Translation/blob/main/Screenshot%202023-05-12%20at%2018.08.53.png)
 
 
-# Wav2Lip Paper Citation
-
-
-
+## Wav2Lip Paper Citation
 
 @inproceedings{10.1145/3394171.3413532,
 author = {Prajwal, K R and Mukhopadhyay, Rudrabha and Namboodiri, Vinay P. and Jawahar, C.V.},
