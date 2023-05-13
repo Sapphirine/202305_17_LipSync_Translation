@@ -7,6 +7,9 @@ Deployment doc has been provided in the repo & can also be found in below url fo
 Deployment information provided here :  
 https://docs.google.com/document/d/1WQfjUoaR4CzYFrDXdm5scRqK0TLLoExy5ihs5hNp7cQ/edit
 
+Deployment 
+
+https://github.com/Sapphirine/202305_17_LipSync_Translation/tree/main/bigdataproject/setup
 
 # Architecture : Original 
 
