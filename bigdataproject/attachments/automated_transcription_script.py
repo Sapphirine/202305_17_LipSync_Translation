@@ -11,7 +11,7 @@ import io
 
 os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = '<Keys location>'
 # globals
-PROJECT_ID = 'elevated-oven-378608'
+PROJECT_ID = '<>'
 PARENT = f"projects/{PROJECT_ID}"
 
 """# Send request to google cloud"""
